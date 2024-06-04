@@ -14,6 +14,12 @@
     "import seaborn as sns\n",
     "from pathlib import Path\n",
     "from scipy import stats\n",
+<<<<<<< HEAD
+=======
+    "from scipy.stats import linregress\n",
+    "from sklearn.linear_model import LinearRegression\n",
+    "from sklearn.metrics import r2_score\n",
+>>>>>>> 2b20b0c69ec7c81f920ae69fc1b27774c8c79fae
     "from scipy.stats import shapiro\n",
     "from scipy.stats import mannwhitneyu  # test for not normally distribution"
    ]
@@ -587,6 +593,10 @@
     }
    ],
    "source": [
+<<<<<<< HEAD
+=======
+    "\n",
+>>>>>>> 2b20b0c69ec7c81f920ae69fc1b27774c8c79fae
     "# Define the path to the CSV file\n",
     "df_csv = \"uk_gov_data_sparse_preproc.csv\"\n",
     "\n",
