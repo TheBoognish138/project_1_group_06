@@ -1,6 +1,6 @@
 # project_1_group_06
 ## Data Science Bootcamp Project 6
-## This project talks about of Vehicle Emissions
+This is a project on vehicle carbon emissions
 
 We explored data analysis of Vehicle CO2 Emissions, that is broken down into the following tasks:
 1.	 Cleaning Data
